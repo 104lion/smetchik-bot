@@ -1,0 +1,23 @@
+{
+  "штукатурка": {
+    "name": "Штукатурка гипсовая",
+    "unit": "мешок 30 кг",
+    "consumption_per_sqm": 8.5,
+    "price_per_unit": 550,
+    "description": "Расход 8.5 кг/м² при слое 10 мм"
+  },
+  "плитка": {
+    "name": "Плитка керамическая",
+    "unit": "кв. метр",
+    "consumption_per_sqm": 1,
+    "price_per_unit": 1200,
+    "description": "Стандартная настенная плитка"
+  },
+  "стяжка": {
+    "name": "Стяжка пола (пескобетон)",
+    "unit": "мешок 40 кг",
+    "consumption_per_sqm_per_cm": 2,
+    "price_per_unit": 320,
+    "description": "Расход 20 кг/м² при слое 10 мм"
+  }
+}
